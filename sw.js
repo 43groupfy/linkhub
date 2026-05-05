@@ -1,4 +1,4 @@
-const CACHE_NAME = 'linkhub-pwa-v1';
+const CACHE_NAME = 'daftalink-pwa-v1';
 const ASSETS_TO_CACHE = [
     './',
     './index.html',
