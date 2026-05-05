@@ -1,6 +1,6 @@
 {
-  "name": "LinkHub Pro",
-  "short_name": "LinkHub",
+  "name": "DaftaLink",
+  "short_name": "DaftaLink",
   "description": "Manajemen link dengan desain minimalis pastel.",
   "start_url": "./index.html",
   "display": "standalone",
