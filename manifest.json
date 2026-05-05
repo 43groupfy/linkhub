@@ -1,0 +1,23 @@
+{
+  "name": "LinkHub Pro",
+  "short_name": "LinkHub",
+  "description": "Manajemen link dengan desain minimalis pastel.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#fdfdfd",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
